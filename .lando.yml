@@ -1,0 +1,6 @@
+name: demo-drupal-base-image-based-site
+recipe: lagoon
+config:
+  flavor: drupal
+  build:
+    - composer install
