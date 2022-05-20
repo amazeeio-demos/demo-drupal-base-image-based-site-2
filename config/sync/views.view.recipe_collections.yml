@@ -1,4 +1,4 @@
-uuid: 490365d4-dc38-4c72-a84e-0b8392f16772
+uuid: b98ab3d0-b42d-44b0-843e-0e15bc8ba429
 langcode: en
 status: true
 dependencies:
@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello from amazee.io'
+      title: 'Recipe collections'
       header: {  }
       footer: {  }
       empty: {  }

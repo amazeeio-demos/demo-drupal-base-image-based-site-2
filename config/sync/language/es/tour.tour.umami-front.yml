@@ -10,7 +10,7 @@ tips:
     label: Navegación
     body: 'Este es el menú de navegación principal para el sitio web de Umami. Es fácil crear y administrar menús y puede crear tantos menús como lo requiera su sitio. Por ejemplo, este sitio proporciona esta navegación principal, así como la navegación de usuario que se muestra arriba.'
   umami-theme:
-    label: 'El tema Umami'
+    body: 'Este sitio web utiliza el tema Umami personalizado para darle estilo a su apariencia. Este tema se ha creado utilizando CSS y personalizando las plantillas HTML de Drupal que se crean utilizando el popular sistema de plantillas Twig. Los temas están también disponibles para su descarga e instalación.'
   managing-content:
     label: 'Administrando contenido'
     body: 'Este sitio web de ejemplo proporciona una colección de artículos y recetas que demuestran cómo el contenido se puede administrar fácilmente de una forma flexible y estructurada.'

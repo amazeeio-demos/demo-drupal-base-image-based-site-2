@@ -1,4 +1,4 @@
-name: demo-drupal-base-image-based-site
+name: demo-drupal-base-image-based-site-2
 recipe: lagoon
 config:
   flavor: drupal
