@@ -1,4 +1,4 @@
-FROM bryangrunebergaio/demo-drupal-base-image:v2
+FROM bryangrunebergaio/demo-drupal-base-image:v4
 
 COPY config /app/config
 COPY .lagoon.yml /app
