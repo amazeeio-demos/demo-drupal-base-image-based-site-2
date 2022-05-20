@@ -4,8 +4,10 @@ x-volumes:
   &default-volumes
     # Define all volumes you would like to have real-time mounted into the docker containers
     volumes:
-      - ./config:/app/config:delegated ### Local overrides to mount host filesystem. Automatically removed in CI and PROD.
-        #  - files:/app/web/sites/default/files
+      - ./config:/app/config:delegated
+      - ./.lagoon.yml:/app/.lagoon.yml:delegated
+      - files:/app/web/sites/default/files
+
 
 x-environment:
   &default-environment
